@@ -1,0 +1,20 @@
+---
+title: "Other things"
+format: html
+editor: visual
+---
+
+## Ham radio
+
+I earned my HAREC Amateur Radio License (Amateurfunk Klasse A) in 2025, with callsign DF5TB.\
+I usually am active on the short wave / HF bands with the occasional participation in UHF contests with our club station DB0OB. I recently started taking part in the Parks on the air (POTA) program.\
+\
+The most recent QSOs from my QRZ logbook are embedded below. I update it in batches from my darc.wavelog log, so come back and check if our QSO is not yet listed :)\
+
+<iframe align="top" frameborder="0" height="300" scrolling="yes" src="https://logbook.qrz.com/lbstat/DF5TB/" width="640"></iframe>
+
+## Volunteering
+Since 2026, I am active in the German Federal Agency for Technical Relief (Technisches Hilfswerk - THW). \
+\
+I am one of the founding member of the association "Bicycle Liberation Front Bamberg e.V", which provides a donation-supported bike co-op where people can get assistance in repairing their old bikes, plus instructional workshops, cooperations with local youth centres, supports pro-cycling initiatives and overall offers a place for cycling culture in the city of Bamberg.
+
