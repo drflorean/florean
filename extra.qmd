@@ -1,7 +1,6 @@
 ---
 title: "Other things"
-format: html
-editor: visual
+
 ---
 
 ## Ham radio
