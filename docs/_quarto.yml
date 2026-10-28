@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    title: Dr. Daniele Florean
+    left:
+      - icon: person-badge
+        text: About
+        href: about.qmd
+      - icon: file-text
+        text: Research
+        href: research.qmd
+      - icon: star
+        text: Extra
+        href: extra.qmd
+      
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
