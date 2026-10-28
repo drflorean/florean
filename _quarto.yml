@@ -15,6 +15,9 @@ website:
       - icon: file-text
         text: Research
         href: research.qmd
+      - icon: star
+        text: Extra
+        href: extra.qmd
       
 
 format:
